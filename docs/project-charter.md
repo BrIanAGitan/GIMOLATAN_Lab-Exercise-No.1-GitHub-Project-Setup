@@ -1,0 +1,7 @@
+problem 
+
+goals
+
+scope
+
+stakeholder
